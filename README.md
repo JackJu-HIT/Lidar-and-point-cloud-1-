@@ -1,6 +1,7 @@
 # Lidar-and-point-cloud-1-
-传感器数据融合--激光雷达的数据生成以及点云的生成
-# Sensor Fusion Self-Driving Car Course
+传感器数据融合-激光雷达的数据生成以及点云的生成
+# 我的博客有相关源码说明：https://blog.csdn.net/qq_40464599/article/details/107168470
+＃传感器融合自动驾驶汽车课
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
